@@ -10,6 +10,9 @@ YouTube Video URL: https://youtu.be/FOHXylL8e2Q
 # What is AWS VPC? | Virtual Private Cloud (VPC) Concepts Deep Dive
 YouTube Video URL: https://youtu.be/-JH5EsF6YkM
 
+# Avoid Mistakes: Constructing an AWS VPC Guide
+YouTube Video URL: https://youtu.be/81mzdsJlcPo
+
 # AWS Storage and Backup Basics For DevOps Engineers | EBS Volumes | EC2 AMI (Amazon Machine Image)
 YouTube Video URL: https://youtu.be/JHxgtyykr4A
 
