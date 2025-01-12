@@ -1,5 +1,6 @@
 # AWS-For-DevOps-Engineers
-AWS Zero To Hero Full Course for DevOps Engineers
+AWS Practical Hands-On Full Course for DevOps Engineers
+https://www.youtube.com/playlist?list=PLwkjeLjcn3Rz41gLBiv61Ncg-MwYujhyR
 
 # AWS IAM Deep Dive For DevOps Engineers
 YouTube Video URL: https://youtu.be/TF9oisb1QJQ
